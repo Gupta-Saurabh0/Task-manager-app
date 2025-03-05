@@ -1,7 +1,9 @@
 📌 About:
+
 A simple web-based Task Manager that allows users to add, edit, delete, and mark tasks as completed.
 
 🚀 Features:
+
 Add new tasks.
 Mark tasks as completed.
 Edit existing tasks.
